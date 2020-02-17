@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="09a972e7-8154-40e5-b1a5-f08f9eb02131" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KNN/KNN_pr.py" beforeDir="false" afterPath="$PROJECT_DIR$/KNN/KNN_pr.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
       <recent name="D:\Projects\Python\machine_learning" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.KNN_pr (1)">
+  <component name="RunManager" selected="Python.SMV_pr">
     <configuration name="KNN_pr (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="machine_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,27 +75,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KNN/KNN_pr.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Regression_pr (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="machine_learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regression_pr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,13 +146,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="SMV_pr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="machine_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SVM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SVM/SMV_pr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SMV_pr" />
         <item itemvalue="Python.KNN_pr (1)" />
         <item itemvalue="Python.Regression_pr (3)" />
         <item itemvalue="Python.KNN_pr" />
         <item itemvalue="Python.Regression_pr (2)" />
-        <item itemvalue="Python.Regression_pr (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -208,22 +207,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1655" y="441" key="FileChooserDialogImpl/0.0.2560.1400/-1080.-336.1080.1880@0.0.2560.1400" timestamp="1581696344141" />
-    <state width="1257" height="249" key="GridCell.Tab.0.bottom" timestamp="1581922777386">
+    <state width="1257" height="349" key="GridCell.Tab.0.bottom" timestamp="1581924876853">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1257" height="249" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1080.-336.1080.1880@0.0.2560.1400" timestamp="1581922777386" />
-    <state width="1257" height="249" key="GridCell.Tab.0.center" timestamp="1581922777386">
+    <state width="1257" height="349" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1080.-336.1080.1880@0.0.2560.1400" timestamp="1581924876853" />
+    <state width="1257" height="349" key="GridCell.Tab.0.center" timestamp="1581924876853">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1257" height="249" key="GridCell.Tab.0.center/0.0.2560.1400/-1080.-336.1080.1880@0.0.2560.1400" timestamp="1581922777386" />
-    <state width="1257" height="249" key="GridCell.Tab.0.left" timestamp="1581922777386">
+    <state width="1257" height="349" key="GridCell.Tab.0.center/0.0.2560.1400/-1080.-336.1080.1880@0.0.2560.1400" timestamp="1581924876853" />
+    <state width="1257" height="349" key="GridCell.Tab.0.left" timestamp="1581924876853">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1257" height="249" key="GridCell.Tab.0.left/0.0.2560.1400/-1080.-336.1080.1880@0.0.2560.1400" timestamp="1581922777386" />
-    <state width="1257" height="249" key="GridCell.Tab.0.right" timestamp="1581922777386">
+    <state width="1257" height="349" key="GridCell.Tab.0.left/0.0.2560.1400/-1080.-336.1080.1880@0.0.2560.1400" timestamp="1581924876853" />
+    <state width="1257" height="349" key="GridCell.Tab.0.right" timestamp="1581924876853">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1257" height="249" key="GridCell.Tab.0.right/0.0.2560.1400/-1080.-336.1080.1880@0.0.2560.1400" timestamp="1581922777386" />
+    <state width="1257" height="349" key="GridCell.Tab.0.right/0.0.2560.1400/-1080.-336.1080.1880@0.0.2560.1400" timestamp="1581924876853" />
     <state x="1421" y="342" key="SettingsEditor" timestamp="1581799137541">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
